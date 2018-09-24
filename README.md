@@ -12,8 +12,6 @@ $ python Movies_Reviews_Crawler.py
 
 ### Movie Review Analysis
 
-<img src = "https://github.com/hengbinxu/Yahoo-Movie-Reviews/blob/master/png/Yahoo_Reviews.PNG" height = 250 width = 500>
-
   - Number of Reviews of each Movies
   
  <img src = "https://github.com/hengbinxu/Yahoo-Movie-Reviews/blob/master/png/comment_num.PNG" height = 250 width = 500>
