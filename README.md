@@ -8,20 +8,12 @@
 $ python Movies_Reviews_Crawler.py
 ```
 
-<<<<<<< HEAD
 <img src = "https://github.com/hengbinxu/Yahoo-Movie-Reviews/blob/master/png/Yahoo_Reviews.PNG" height = 250 width = 500>
 
-
 ### Movie Review Analysis
 
-=======
-<img src = "https://github.com/hengbinxu/Yahoo-Movie-Reviews/blob/master/png/HomePage.PNG" height = 250 width = 500>
+<img src = "https://github.com/hengbinxu/Yahoo-Movie-Reviews/blob/master/png/Yahoo_Reviews.PNG" height = 250 width = 500>
 
-<img src = 'https://github.com/hengbinxu/Yahoo-Movie-Reviews/blob/master/png/comments.PNG' height = 250 width = 500>
-
-### Movie Review Analysis
-
->>>>>>> af63f69d08ea62d3c493d91d1fc4f224ae0228b1
   - Number of Reviews of each Movies
   
  <img src = "https://github.com/hengbinxu/Yahoo-Movie-Reviews/blob/master/png/comment_num.PNG" height = 250 width = 500>
